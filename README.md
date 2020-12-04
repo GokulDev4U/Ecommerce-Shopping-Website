@@ -2,22 +2,23 @@
 eCommerce platform built with the MERN stack & Redux.
 
 # Checkout Working App
-https://proshopapp141.herokuapp.com/
+[Ecommerce-Shopping-Website](https://proshopapp141.herokuapp.com/)
 
 # Features
-Full featured shopping cart
-Product reviews and ratings
-Top products carousel
-Product pagination
-Product search feature
-User profile with orders
-Admin product management
-Admin user management
-Admin Order details page
-Mark orders as delivered option
-Checkout process (shipping, payment method, etc)
-PayPal / credit card integration
-Database seeder (products & users)
+1. Full featured shopping cart
+2. Product reviews and ratings
+3. Top products carousel
+4. Product pagination
+5. Product search feature
+6. User profile with orders
+7. Admin product management
+8. Admin user management
+9. Admin Order details page
+10. Mark orders as delivered option
+11. Checkout process (shipping, payment method, etc)
+12. PayPal / credit card integration
+13. Database seeder (products & users)
+
 Note on Issues
 Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
 
