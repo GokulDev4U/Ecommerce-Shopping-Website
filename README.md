@@ -1,11 +1,10 @@
-#ProShop eCommerce Platform
+# ProShop eCommerce Platform
 eCommerce platform built with the MERN stack & Redux.
 
-This is the course project for my MERN eCommerce From Scratch course
+# Checkout Working App
+https://proshopapp141.herokuapp.com/
 
-screenshot
-
-Features
+# Features
 Full featured shopping cart
 Product reviews and ratings
 Top products carousel
